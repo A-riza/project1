@@ -82,19 +82,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
           <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <p>Research, analysis and development of software systems.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <p> Website Design.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Photography</b></h5>
           <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <p> Photography club</p><br>
         </div>
       </div>
 
@@ -107,14 +107,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>London Business School</b></h5>
-          <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
-          <p>Master Degree</p>
+          <h5 class="w3-opacity"><b>hatyaiwittayalaisomboonkulkanya School</b></h5>
+          <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2016</h6>
+          <p>high school</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>School of Coding</b></h5>
-          <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
+          <h5 class="w3-opacity"><b>prince of songkla university</b></h5>
+          <h6 class="w3-text-red"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2019</h6>
           <p>Bachelor Degree</p><br>
         </div>
       </div>
