@@ -9,7 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-green">
+<body class="w3-container w3-light-blue">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -20,7 +20,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-lime w3-text-grey w3-card-4">
+      <div class="w3-container w3-pale-green w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-yellow">
@@ -77,7 +77,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-lime w3-margin-bottom">
+      <div class="w3-container w3-card-2 w3-container w3-pale-green w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
@@ -98,7 +98,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
       </div>
 
-      <div class="w3-container w3-card-2 w3-lime">
+      <div class="w3-container w3-card-2 w3-container w3-pale-green">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-red"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>W3Schools.com</b></h5>
